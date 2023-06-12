@@ -5,6 +5,10 @@ Generally, a Kanban tool will consist of buckets. These buckets will store tasks
 
 The buckets will be called To Do, In Progress and Completed. In this project, I downloaded dependencies from Node Package Manager (NPM) that will allow to drag and drop components within our application. 
 
+# Live application
+
+To view live: [Click here ;)](https://oladee-kanban-app.netlify.app)
+
 # Screenshot
 
 ![](./public/Screenshot%20(105).png)
